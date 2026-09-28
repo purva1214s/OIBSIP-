@@ -2,7 +2,7 @@
 
 This repository contains the tasks completed during my **Data Analytics Internship at OASIS INFOBYTE**.
 
-## 📌 About the Internship
+##  About the Internship
 
 The internship focused on applying **Data Analytics, Machine Learning, and NLP techniques** to real-world datasets.
 
@@ -20,9 +20,9 @@ The tasks covered:
 
 ---
 
-## 📂 Tasks Completed
+##  Tasks Completed
 
-### 🔹 Level 1
+###  Level 1
 
 #### Task 1 – EDA: Retail Sales
 
@@ -95,7 +95,7 @@ The tasks covered:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Programming Language:** Python
 * **Data Analysis:** Pandas, NumPy
@@ -107,7 +107,7 @@ The tasks covered:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 OIBSIP/
@@ -165,7 +165,7 @@ OIBSIP/
 
 ---
 
-## 📌 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 * Python Programming
 * Data Cleaning
