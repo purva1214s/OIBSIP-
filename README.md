@@ -77,10 +77,8 @@ The internship focused on applying data analytics and machine learning technique
 - Jupyter Notebook
 - SQL
 - Data Visualization
-
+  
 ## Repository Structure
-
-text
 OIBSIP
 │
 ├── Level-1
